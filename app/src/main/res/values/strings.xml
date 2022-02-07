@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Financial Suite</string>
+
+
+    <string-array name="durChoices">
+        <item>Months</item>
+        <item>Years</item>
+    </string-array>
+
+    <string-array name="intro_stuff">
+        <item>After</item>
+        <item>years</item>
+        <item>months</item>
+        <item>you would have</item>
+    </string-array>
+</resources>
